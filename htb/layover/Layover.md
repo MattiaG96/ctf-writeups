@@ -707,7 +707,7 @@ Every credential recovered during the box, and where it came from:
 
 | User | Password | Source | Used For |
 |------|----------|--------|----------|
-| contractor | (no password) | Given | RDP to host → jumpbox (sudo root) |
+| contractor | Contractor2026! | Given | RDP to host → jumpbox (sudo root) |
 | jenny | F██████████████! | WiFi sniffing | Craft CMS admin panel |
 | craftuser | C████████████6 | .env file | MariaDB on portal |
 | aporter | S██████████████6 | DB decrypt (Yii2) | SSH to portal + mail relay |
